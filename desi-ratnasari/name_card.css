@@ -1,0 +1,33 @@
+#content {
+    background: blanchedalmond;
+}
+.btn {
+    border-radius: 6px;
+    box-shadow: none;
+    border: none;
+    transition-duration: 0.4s;
+}
+.btn-primary {
+    color: black;
+    background-color: grey;
+    padding:10px 40px;
+    font-size: 16px;
+}
+.ml-1 {
+    margin-left: 6px;
+}
+.s-2 {
+    width: 16px;
+    height: 16px;
+}
+.text-white {
+    color:white
+}
+.radius {
+    border-radius: 10px;
+}
+.background-umum {
+    background-color: red;
+    font-size: 18px;
+    padding: 0px 40px;
+    }
